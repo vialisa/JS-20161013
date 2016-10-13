@@ -51,3 +51,4 @@
 * 在使用var 声明变量但未对其加以初始化时，这个变量的值就是undefined *
 ### null
 * null 值表示的是一个空对象指针，所以使用 typeof 操作符检测null 值时会返回object *
+### Boolean
