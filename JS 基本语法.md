@@ -35,15 +35,16 @@
   - if 语句
     > 先判断一个表达式的布尔值，再根据 boolean 的真伪选择执行的语句。
 
-    ```
+    ```JavaScript
     if(expression){
     statement
     }
     ```
+    
   - if...else
   > 多个if...else 可以连写在一起
 
-    ```
+    ```JavaScript
     if(expression){
     statement1
     } else{
@@ -53,7 +54,7 @@
 
   - switch 语句
 
-    ```
+    ```JavaScript
 	switch(expression){
 	case值1:
 	statement 1
@@ -70,18 +71,18 @@
 	default:
 	statement
 	}
-	```
+    ```
 
   - 三元运算符
-    + 语法:` (contidion)? expr1 : expr2
+    + 语法:` (contidion)? expr1 : expr2 `
 
 # 7. 循环语句
   > 用于重复执行某个操作
 
   - while 语句
-	+ 语法
+    + 语法
 
-    ```
+    ```JavaScript
     while(expression){
     statement;
     }
@@ -111,18 +112,18 @@
 
     + 无限循环
 
-	```
-    for ( ; ; ){
-      statement
-    }
-    ```
+      ```JavaScript
+      for ( ; ; ){
+        statement
+      }
+      ```
 
   - do...while 循环
     > 先运行一次循环体，再判断条件
 
       + 语法
 
-      ```
+      ```JavaScript
       do{
       statement
       }while(expression);
