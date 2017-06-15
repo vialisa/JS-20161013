@@ -11,5 +11,5 @@
 * [JS 错误处理机制](JS 错误处理机制.md)
 * [JS Object 对象](JS Object 对象.md)
 * [JS Array 对象](JS Array 对象.md)
-* [JS BOM d对象](JS BOM 对象.md)
+* [JS BOM 对象](JS BOM 对象.md)
 
